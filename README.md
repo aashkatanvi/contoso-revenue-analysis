@@ -13,7 +13,7 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 - Identify discount dependency across channels and categories  
 - Analyze whether growth is driven by volume or value  
 - Evaluate relationship between discounting and profitability  
-- Assess sustainability of current growth strategy  
+- Assess sustainability of current growth strategy   
 
 ---
 
