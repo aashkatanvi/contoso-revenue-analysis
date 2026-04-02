@@ -25,6 +25,22 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 
 ---
 
+## 📦 Dataset
+- Source: Contoso Retail Dataset (Microsoft sample dataset)
+- Period: 2008–2009
+- Database: PostgreSQL
+- Tables used: 11 (sales, online_sales, channel, product, promotion, date, geography, store, sales_territory, product_category, product_subcategory)
+
+---
+
+## 🧹 Data Cleaning
+- Fixed spelling error "Back-to-Scholl" → "Back-to-School" in promotion table via view
+- Standardized 295 blank status values to 'Unknown' in product table via view
+- Excluded salesamount = 0 rows (65,271 returns in online_sales)
+- Verified referential integrity across all 4 critical foreign keys — all clean
+- Weight column dropped — irrelevant to business problem
+
+---
 ## 🧠 Approach
 
 - Combined online and offline sales data using SQL  
@@ -43,11 +59,17 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 
 - Revenue declined ~9.3%, driven primarily by weakening core channels  
 - Online growth is volume-driven but inefficient:
-  - Transactions increased significantly  
+  - Transactions increased 38% (2008→2009)  
   - AOV dropped ~27%  
   - Margins declined despite stable discount rates   
 - Discount dependency remains high (~66%)  
 - Core channels are declining sharply, outweighing limited gains from online growth  
+
+---
+
+## ⚠️ Data Limitations
+- AOV calculated at transaction line level as offline sales lack order-level granularity
+- Analysis covers 2008–2009 only — long-term trends require additional years
 
 ---
 
