@@ -1,5 +1,7 @@
 # Contoso Revenue Analysis: Revenue Decline Driven by Weak Core Channels and Inefficient Online Growth
 
+> End-to-end business analysis using SQL, Power BI, and Excel to diagnose drivers of revenue decline and evaluate growth sustainability.
+
 ## 📊 Business Problem
 
 Is Contoso’s revenue decline driven by weakening core channels, or is online growth masking deeper inefficiencies?
