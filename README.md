@@ -35,7 +35,7 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -45,7 +45,7 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 - Online growth is volume-driven but inefficient:
   - Transactions increased significantly  
   - AOV dropped ~27%  
-  - Margins declined despite stable discount rates  
+  - Margins declined despite stable discount rates   
 - Discount dependency remains high (~66%)  
 - Core channels are declining sharply, outweighing limited gains from online growth  
 
@@ -55,7 +55,16 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
 
 The business is shifting toward a volume-driven online growth model that increases transactions but reduces value per sale.
 
-This trend is structurally unsustainable and highlights a key business risk — continued reliance on such growth may erode profitability further.
+This indicates a structurally unsustainable growth pattern and highlights a key business risk — continued reliance on such growth may erode profitability further.
+
+---
+
+## 🚀 Business Implications
+
+- Growth strategy should shift from volume to value optimization  
+- Reduce dependency on discount-driven sales in Online channel  
+- Focus on improving AOV through pricing, bundling, or product mix  
+- Stabilize core channels to prevent further revenue decline  
 
 ---
 
