@@ -45,7 +45,7 @@ Is Contoso’s revenue decline driven by weakening core channels, or is online g
   - AOV dropped ~27%  
   - Margins declined despite stable discount rates  
 - Discount dependency remains high (~66%)  
-- Core channels are declining, driving overall revenue down  
+- Core channels are declining sharply, outweighing limited gains from online growth  
 
 ---
 
