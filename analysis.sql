@@ -238,8 +238,8 @@ WITH sales_data AS(
 	GROUP BY channelname, calendaryear
 
 -- INSIGHT: Revenue trends validate the AOV finding — Online shows only marginal
--- revenue growth despite a significant increase in transactions, confirming that
--- growth is driven by volume rather than value.	
+-- revenue growth despite a significant increase in transactions, indicating that
+-- growth is primarily volume-driven rather than value-driven.	
 
 -- =========================================
 -- Q3: Discount Sustainability Analysis
